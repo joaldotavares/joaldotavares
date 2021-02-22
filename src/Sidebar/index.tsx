@@ -9,15 +9,15 @@ function Sidebar() {
                     alt="Joaldo"/>
                     <h3>Joaldo Tavares</h3>
                     <div className="menu">
-                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/front-web/src/Sidebar/images/certificate.png?raw=true"/><br/>
+                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/school.png?raw=true"/><br/>
                         <a className="a-menu" href="">Bachelor of Software Engineer</a><br/>
-                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/front-web/src/Sidebar/images/github.png?raw=true"/><br/>
+                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/github.png?raw=true"/><br/>
                         <a className="a-menu-github" href="https://github.com/joaldotavares" target="_blank">GitHub</a><br/>
-                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/front-web/src/Sidebar/images/mail.png?raw=true"/><br/>
+                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/mail.png?raw=true"/><br/>
                         <a className="a-menu-email" href="#" target="_blank">Email</a><br/>
-                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/front-web/src/Sidebar/images/linkedin.png?raw=true"/><br/>
+                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/linkedin.png?raw=true"/><br/>
                         <a className="a-menu-linkedin" href="https://www.linkedin.com/in/joaldotavares/" target="_blank">LinkedIn</a><br/>
-                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/front-web/src/Sidebar/images/developer.png?raw=true"/><br/>
+                        <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/developer.png?raw=true"/><br/>
                         <a className="a-menu-back" href="">Backend Developer</a><br/>
                     </div>
             </aside>
