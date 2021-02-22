@@ -49,8 +49,7 @@ function Home (){
       for ordering food for restaurants and deliveries. With the option of placing an order and choosing the location for delivery. The 
       technologies used were Java, Spring Boot and Hibernate for backend development and Typescript, HTML 5, CSS 3 and React for frontend development. <br /><br />
       <a className="a-sub" href="https://github.com/joaldotavares/data-structures"  target="_blank">Data Structures </a>: This project contains 
-      implementations of some data structures and algorithms in java, made by me. It has Sorting algorithms, Trees and Graphs.
-      the world and offer better conditions for the whole of society. <br /><br />
+      implementations of some data structures and algorithms in java, made by me. It has Sorting algorithms, Trees and Graphs. <br /><br />
       <a className="a-sub" href=""  target="_blank">Problem Solving </a>: <br /><br />
       </p>
 
