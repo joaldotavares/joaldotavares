@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.3fb4a6db.chunk.css",
-    "main.js": "/static/js/main.277dfc87.chunk.js",
-    "main.js.map": "/static/js/main.277dfc87.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.848f28ce.js",
-    "runtime-main.js.map": "/static/js/runtime-main.848f28ce.js.map",
-    "static/js/2.e0a32980.chunk.js": "/static/js/2.e0a32980.chunk.js",
-    "static/js/2.e0a32980.chunk.js.map": "/static/js/2.e0a32980.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.3fb4a6db.chunk.css.map": "/static/css/main.3fb4a6db.chunk.css.map",
-    "static/js/2.e0a32980.chunk.js.LICENSE.txt": "/static/js/2.e0a32980.chunk.js.LICENSE.txt"
+    "main.css": "/joaldotavares/static/css/main.3fb4a6db.chunk.css",
+    "main.js": "/joaldotavares/static/js/main.277dfc87.chunk.js",
+    "main.js.map": "/joaldotavares/static/js/main.277dfc87.chunk.js.map",
+    "runtime-main.js": "/joaldotavares/static/js/runtime-main.163bc21e.js",
+    "runtime-main.js.map": "/joaldotavares/static/js/runtime-main.163bc21e.js.map",
+    "static/js/2.e0a32980.chunk.js": "/joaldotavares/static/js/2.e0a32980.chunk.js",
+    "static/js/2.e0a32980.chunk.js.map": "/joaldotavares/static/js/2.e0a32980.chunk.js.map",
+    "index.html": "/joaldotavares/index.html",
+    "static/css/main.3fb4a6db.chunk.css.map": "/joaldotavares/static/css/main.3fb4a6db.chunk.css.map",
+    "static/js/2.e0a32980.chunk.js.LICENSE.txt": "/joaldotavares/static/js/2.e0a32980.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.848f28ce.js",
+    "static/js/runtime-main.163bc21e.js",
     "static/js/2.e0a32980.chunk.js",
     "static/css/main.3fb4a6db.chunk.css",
     "static/js/main.277dfc87.chunk.js"
