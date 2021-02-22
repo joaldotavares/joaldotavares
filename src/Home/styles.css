@@ -1,0 +1,50 @@
+.twitter {
+    background-color: #48343d;
+    position: relative;
+    width: 77%;
+    float: right;
+    height: 100%;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+    justify-content: center;
+    height: 100%;
+}
+
+h2 {
+    font-size: 18px;
+    letter-spacing: 0.1em;
+    font-weight: bold;
+    color: #FFF;
+}
+ 
+p {
+    font-size: 14px;
+    color: #FFF;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    justify-content: center;
+}
+
+tr {
+    border:none;   
+}
+
+td{
+    width: 10%;
+    float: center;
+}
+
+.img-skills{
+    margin-right: 8px;
+    margin-bottom: -6px;
+    width: 26px;
+    height: 26px;
+}
+
+.a-sub{
+    text-decoration: underline;
+}

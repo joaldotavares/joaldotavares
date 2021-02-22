@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans');
+
+.sidebar {
+  position: fixed;
+  width: 23%;
+  height: 100vh;
+  background: #321d26;
+  font-size: 0.65em;
+  border-right: #ba925e 1px solid;
+}
+
+
+menu {
+    padding-left: 0%;
+    position: relative;
+    margin: 3.8em 0;
+    text-align: center;
+    font-size: 12px;
+    
+  }
+   
+.active a {
+    color: #ba925e;
+}
+
+a:hover{
+  transition: 0.6s;
+  color: #ba925e;
+}
+
+.a-menu-github{
+  color: rgb(255, 255, 255);
+  padding-left: 44%;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.a-menu-email{
+  color: rgb(255, 255, 255);
+  padding-left: 46%;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.a-menu-linkedin{
+  color: rgb(255, 255, 255);
+  padding-left: 43%;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.a-menu-back{
+  color: rgb(255, 255, 255);
+  padding-left: 33%;
+  margin: 0 auto;
+  font-size: 12px;
+}
+
+.a-menu{
+  color: rgb(255, 255, 255);
+  padding-left: 25%;
+  font-size: 12px;
+}
+
+a{
+  color: rgb(255, 255, 255);
+}
+
+.img-perfil{
+  margin-left: 25%;
+  margin-top: 15%;
+  border-radius: 50%;
+  width: 148px;
+  height: 148px;
+}
+
+.img-icons{
+  margin-left: 45%;
+  margin-top: 7%;
+  width: 32px;
+  height: 30px;
+}
+
+h3 {
+  font-size: 16px;
+  letter-spacing: 0.1em;
+  color: #FFF;
+  font-weight: bold;
+  text-align: center;
+}
+    
+    
+    
+
+
