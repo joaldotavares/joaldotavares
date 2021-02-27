@@ -6,7 +6,7 @@ function Home (){
 
       <h2>Welcome</h2>
       <p>
-        Hello, I am a student of Software Engineering at <a href="https://www.ucsal.br/">Universidade Católica do Salvador</a>. Currently in the third year
+        Hello, I am a student of Software Engineering at <a href="https://www.ucsal.br/" target="_blank">Universidade Católica do Salvador</a>. Currently in the third year
         of the course. I am currently one of the coordinators of the study group for programming marathons at the 
         Universidade Católica do Salvador.<br/>
 
@@ -44,13 +44,18 @@ function Home (){
         </tr>  
       </table>
 
+      
+
       <h2>Projects / Repositories</h2>
       <p><a className="a-sub" href="https://github.com/joaldotavares/dsdeliver"  target="_blank">Ds Deliver </a>: It is an application 
       for ordering food for restaurants and deliveries. With the option of placing an order and choosing the location for delivery. The 
       technologies used were Java, Spring Boot and Hibernate for backend development and Typescript, HTML 5, CSS 3 and React for frontend development. <br /><br />
       <a className="a-sub" href="https://github.com/joaldotavares/data-structures"  target="_blank">Data Structures </a>: This project contains 
       implementations of some data structures and algorithms in java, made by me. It has Sorting algorithms, Trees and Graphs. <br /><br />
-      <a className="a-sub" href=""  target="_blank">Problem Solving </a>: <br /><br />
+      <a className="a-sub" href="https://github.com/joaldotavares/problem-solving"  target="_blank">Problem Solving </a>: This repository has as main 
+      objective to bring some problem implementations for competitive programming of the <a href="https://www.urionlinejudge.com.br/judge/pt" target="_blank">URI</a> platform. 
+      The languages used to solve these problems are 
+      Java, C++ and Python.<br />
       </p>
 
       <h2>General Skills</h2>

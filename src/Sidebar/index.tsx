@@ -14,7 +14,7 @@ function Sidebar() {
                         <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/github.png?raw=true"/><br/>
                         <a className="a-menu-github" href="https://github.com/joaldotavares" target="_blank">GitHub</a><br/>
                         <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/mail.png?raw=true"/><br/>
-                        <a className="a-menu-email" href="#" target="_blank">Email</a><br/>
+                        <a className="a-menu-email" href="mailto:joaldo643@gmail.com" target="_blank">Email</a><br/>
                         <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/linkedin.png?raw=true"/><br/>
                         <a className="a-menu-linkedin" href="https://www.linkedin.com/in/joaldotavares/" target="_blank">LinkedIn</a><br/>
                         <img className="img-icons" src="https://github.com/joaldotavares/joaldotavares/blob/main/src/Sidebar/images/developer.png?raw=true"/><br/>
