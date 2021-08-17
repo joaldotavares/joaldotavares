@@ -21,6 +21,8 @@
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/PostgreSQL.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/HTML.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Css.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Micronaut.svg" alt="angular" style="vertical-align:top; margin:4px">
+ <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Kotlin.svg" alt="angular" style="vertical-align:top; margin:4px">
 </p>
 <details>
   <summary> <b> Things about my github! </b> <i>(click to expand!)</i> </summary>
