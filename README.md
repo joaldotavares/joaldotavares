@@ -10,17 +10,11 @@
 <p align="center">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Java.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Python.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Eclipse.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Flask.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Hibernate.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/SpringBoot.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Spring.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/PyCharm.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Postman.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/MySQL.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/PostgreSQL.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/HTML.svg" alt="angular" style="vertical-align:top; margin:4px">
- <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Css.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Micronaut.svg" alt="angular" style="vertical-align:top; margin:4px">
  <img src="https://github.com/joaldotavares/joaldotavares/blob/main/assets/Kotlin.svg" alt="angular" style="vertical-align:top; margin:4px">
 </p>
